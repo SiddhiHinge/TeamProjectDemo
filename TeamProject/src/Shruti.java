@@ -6,7 +6,6 @@ public class Shruti {
 		System.out.println("Hello......");
 		
 		System.out.println("Done with git commit,push,pull,clone");
-		
 	}
 
 }
